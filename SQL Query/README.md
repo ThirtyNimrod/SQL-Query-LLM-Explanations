@@ -4,7 +4,7 @@ This folder contains the complex SQL query used in our experiment to evaluate th
 
 ## Query Generation
 
-The SQL query used in this experiment was generated using ChatGPT-3.5. We prompted ChatGPT to create a complex query that incorporates several advanced SQL features, including:
+The SQL query used in this experiment was generated using ChatGPT-4. We prompted ChatGPT to create a complex query that incorporates several advanced SQL features, including:
 
 - Multiple Common Table Expressions (CTEs)
 - Various JOIN operations
