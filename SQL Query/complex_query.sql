@@ -1,4 +1,3 @@
-```sql
 WITH customer_segments AS (
     SELECT 
         c.customer_id,
@@ -121,4 +120,3 @@ ORDER BY
     cs.customer_segment,
     product_rank_in_segment
 LIMIT 1000;
-```
