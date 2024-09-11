@@ -33,4 +33,4 @@ This document provides a brief overview of each LLM's performance in explaining 
 - The experiment highlights the potential of 7B parameter LLMs in technical documentation and education
 - While impressive, these AI models should be viewed as tools to augment human understanding, not replace it
 
-For a complete analysis and discussion of the implications, please refer to the full article [insert link after publishing the article].
+For a complete analysis and discussion of the implications, please refer to the full [article](https://medium.com/@ThirtyNimrod/decoding-sql-how-7b-llms-stack-up-in-explaining-complex-queries-cad082b7450f).
