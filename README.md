@@ -37,7 +37,7 @@ Each model was evaluated on five key parameters:
 - LLaVA provided the most well-structured explanations.
 - Gemma2, while scoring slightly lower, showed consistent performance across all parameters.
 
-For a detailed analysis of the results and their implications, please refer to the full article [insert link to your article when published].
+For a detailed analysis of the results and their implications, please refer to the full article [link](https://medium.com/@ThirtyNimrod/decoding-sql-how-7b-llms-stack-up-in-explaining-complex-queries-cad082b7450f).
 
 ## Usage
 
